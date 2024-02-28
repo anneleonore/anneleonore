@@ -1,3 +1,3 @@
 - 🎓 Doctorate Student in Business Administration & Data Analytics at Melbourne Business School
-- 🔍 Using Natural Language Processing to explore the Impact of Performance Feedback on Career Growth
+- 🔍 Using Natural Language Processing to explore the Impact of Performance Feedback on Professional Developments
 - 💬 Feel free to reach out and discuss anything related to my research at n.debruijn@mbs.edu
