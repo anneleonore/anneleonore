@@ -1,4 +1,3 @@
-- 🔭 Doctorate Student in Business Administration and Data Analytics at Melbourne Business School, Australia.
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 n.debruijn@mbs.edu
+- 🎓 Doctorate Student in Business Administration & Data Analytics at Melbourne Business School
+- 🔍 Using Natural Language Processing to explore the Impact of Performance Feedback on Career Growth
+- 💬 Feel free to reach out and discuss anything related to my research at n.debruijn@mbs.edu
