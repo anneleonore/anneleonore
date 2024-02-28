@@ -1,3 +1,3 @@
-- 🎓 Doctorate Student in Business Administration & Analytics at [Melbourne Business School](https://mbs.edu/degree-programs/doctoral-program-in-business-administration-and-analytics).
+- 🎓 Doctorate Student in Business Administration & Analytics at [Melbourne Business School](https://mbs.edu/degree-programs/doctoral-program-in-business-administration-and-analytics)
 - 🔍 Using Natural Language Processing to explore the Impact of Performance Feedback on Professional Development
 - 💬 Questions or discussions about my research? Reach out anytime at n.debruijn@mbs.edu!
