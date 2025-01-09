@@ -1,3 +1,3 @@
 - 🎓 Doctorate Student in Business Administration & Analytics at [Melbourne Business School](https://mbs.edu/degree-programs/doctoral-program-in-business-administration-and-analytics)
-- 🔍 Using Machine Learning methods (Focus: NLP) to explore the Impact of Performance Feedback on Professional Development
+- 🔍 Using Machine Learning (Focus: NLP) to explore the Impact of Performance Feedback on Professional Development
 - 💬 Questions or discussions about my research? Reach out anytime at n.debruijn@mbs.edu!
